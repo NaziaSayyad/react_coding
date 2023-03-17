@@ -1,3 +1,3 @@
-export const loaading = "user/loading";
-export const error = "user/error";
-export const sucess  = "user/sucess ";
+export const user_loaading = "user/loading";
+export const user_error = "user/error";
+export const user_sucess  = "user/sucess ";
